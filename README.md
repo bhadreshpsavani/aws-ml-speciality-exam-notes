@@ -6,3 +6,7 @@
 3. Kinesis Firehose : Load Streaming data into readshift, s3, elastic search and splunk
 4. Kinesis Video Stream : Streaming Video in realtime 
 
+
+* Kinesis Firehose can covert output records in two format:
+  1) Apache Parquet
+  2) Apache ORC
